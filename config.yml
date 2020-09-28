@@ -1,0 +1,8 @@
+# 国内線なら'国内線旅客数（人）'
+# 国際線なら'旅客数（人）'
+COLUMN_Y: '国内線旅客数（人）'
+
+TEST_START_DATE: '2019-01'
+
+# データのパス
+FPATH: '/home/gungelion/workspace/jal-passengers/JAL旅客数_2020-09-24.xlsx'
