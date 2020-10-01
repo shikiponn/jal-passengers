@@ -1,0 +1,28 @@
+name: jal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # jupyter extension
+#   - nb_conda_kernel
+  # module
+  - numpy
+  - pandas
+  - pip
+  - dask
+  - jupyter
+  - click
+  - scikit-learn
+  - statsmodels
+  - bokeh
+  - matplotlib
+  - seaborn
+  - plotly
+  - pymc3
+  - holoviews
+  - xlrd
+  - yaml
+  - pip:
+      - nbdime
+      - tensorflow
+      - japanize_matplotlib

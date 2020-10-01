@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/gungelion/miniconda/envs/jal/bin/python",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=4363d70d8e9b446599d173631e125336c124b3742c96d607"
+}
